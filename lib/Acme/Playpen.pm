@@ -1,7 +1,7 @@
 use strict;
 use warnings;
 package Acme::Playpen;
-$Acme::Playpen::VERSION = '0.01';
+$Acme::Playpen::VERSION = '0.02';
 use Acme::Playpen::Utilities;
 
 1;

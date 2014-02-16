@@ -1,0 +1,24 @@
+use strict;
+use warnings;
+package Acme::Playpen;
+$Acme::Playpen::VERSION = '0.01';
+use Acme::Playpen::Utilities;
+
+1;
+
+=head1 NAME
+
+Acme::Playpen - just mucking about with dist stuff
+
+=head1 DESCRIPTION
+
+In the beginning the Universe was created.
+This has made a lot of people very angry and been widely regarded as a bad move.
+
+=head1 LICENSE AND COPYRIGHT
+
+This software is copyright (c) 2013 by Neil Bowers <neilb@cpan.org>.
+
+This is free software; you can redistribute it and/or modify it under
+the same terms as the Perl 5 programming language system itself.
+

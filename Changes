@@ -1,0 +1,14 @@
+Revision history for Perl module Acme::Playpen
+
+0.03 
+    - Added this file.
+    - Tried to address all Kwalitee checks to get 'CPANTS clean',
+      but have a malformed abstract, to see what I get.
+
+0.02 2014-02-16
+    - Added a module which is already on CPAN with someone else having
+      permission, but with no_index in metadata.
+
+0.01 2014-02-16
+    - First release to CPAN
+

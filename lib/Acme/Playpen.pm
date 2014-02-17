@@ -1,14 +1,16 @@
+package Acme::Playpen;
+$Acme::Playpen::VERSION = '0.03';
 use strict;
 use warnings;
-package Acme::Playpen;
-$Acme::Playpen::VERSION = '0.02';
+use 5.006;
+
 use Acme::Playpen::Utilities;
 
 1;
 
 =head1 NAME
 
-Acme::Playpen - just mucking about with dist stuff
+Acme::Playpen -- just mucking about with dist stuff
 
 =head1 DESCRIPTION
 

@@ -18,6 +18,7 @@ no_index:
     - Acme::Playpen::Utilities
     - Acme::Odometer
 requires:
+  perl: 5.006
   strict: 0
   warnings: 0
-version: 0.02
+version: 0.03

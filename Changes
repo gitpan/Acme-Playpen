@@ -1,6 +1,15 @@
 Revision history for Perl module Acme::Playpen
 
-0.03 
+0.05 2014-02-25
+    - no_index a module but give it pod, what does MetaCPAN do ...
+
+0.05 2014-02-25
+    - more mucking about with abstracts
+
+0.04 2014-02-25
+    - mucking about with abstracts
+
+0.03 2014-02-16
     - Added this file.
     - Tried to address all Kwalitee checks to get 'CPANTS clean',
       but have a malformed abstract, to see what I get.

@@ -1,5 +1,5 @@
 package Acme::Playpen::Utilities;
-$Acme::Playpen::Utilities::VERSION = '0.05';
+$Acme::Playpen::Utilities::VERSION = '0.06';
 use strict;
 use warnings;
 

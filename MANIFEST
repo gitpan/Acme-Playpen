@@ -9,5 +9,4 @@ dist.ini
 lib/Acme/Odometer.pm
 lib/Acme/Playpen.pm
 lib/Acme/Playpen/Utilities.pm
-lib/Acme/Playpen/Utilities.pod
 t/01-require.t

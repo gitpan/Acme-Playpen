@@ -1,5 +1,5 @@
 package Acme::Playpen::Utilities;
-$Acme::Playpen::Utilities::VERSION = '0.06';
+$Acme::Playpen::Utilities::VERSION = '0.07';
 use strict;
 use warnings;
 
@@ -8,3 +8,17 @@ use warnings;
 # That means you too, Toby :-)
 
 1;
+
+=head1 NAME
+
+Acme::Playpen::Utilities - I'm just this module, you know
+
+=head1 SYNOPSIS
+
+ # do nothing
+
+=head1 DESCRIPTION
+
+Acme::Playpen::Utilities is a nothing little module,
+used while i'm checking various things related to the CPAN toolchain.
+

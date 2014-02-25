@@ -1,6 +1,10 @@
 Revision history for Perl module Acme::Playpen
 
-0.05 2014-02-25
+0.07 2014-02-25
+    - ok, so no_index and separate pod, the pod is linked in MetaCPAN.
+      Now what if the pod's in the file which is no-linked?
+
+0.06 2014-02-25
     - no_index a module but give it pod, what does MetaCPAN do ...
 
 0.05 2014-02-25

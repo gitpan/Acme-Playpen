@@ -1,5 +1,5 @@
 ---
-abstract: "E<lt>justE<gt> \"mucking about\" with dist stuff via L<Dist::Zilla>"
+abstract: "E<lt>justE<gt> \"mucking about\" with dist stuff via L<Dist::Zilla> in this $VERSION :-)"
 author:
   - 'Neil Bowers <neil@bowers.com>'
 build_requires:
@@ -21,4 +21,4 @@ requires:
   perl: 5.006
   strict: 0
   warnings: 0
-version: 0.04
+version: 0.05

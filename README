@@ -1,9 +1,9 @@
 
 
 This archive contains the distribution Acme-Playpen,
-version 0.04:
+version 0.05:
 
-  E<lt>justE<gt> "mucking about" with dist stuff via L<Dist::Zilla>
+  E<lt>justE<gt> "mucking about" with dist stuff via L<Dist::Zilla> in this $VERSION :-)
 
 This software is copyright (c) 2014 by Neil Bowers.
 

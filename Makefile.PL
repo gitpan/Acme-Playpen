@@ -10,7 +10,7 @@ use ExtUtils::MakeMaker 6.30;
 
 
 my %WriteMakefileArgs = (
-  "ABSTRACT" => "just mucking about with dist stuff",
+  "ABSTRACT" => "E<lt>justE<gt> \"mucking about\" with dist stuff via L<Dist::Zilla>",
   "AUTHOR" => "Neil Bowers <neil\@bowers.com>",
   "BUILD_REQUIRES" => {},
   "CONFIGURE_REQUIRES" => {
@@ -27,7 +27,7 @@ my %WriteMakefileArgs = (
   "TEST_REQUIRES" => {
     "Test::More" => "0.88"
   },
-  "VERSION" => "0.03",
+  "VERSION" => "0.04",
   "test" => {
     "TESTS" => "t/*.t"
   }

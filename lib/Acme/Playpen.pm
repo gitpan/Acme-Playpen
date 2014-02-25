@@ -1,5 +1,5 @@
 package Acme::Playpen;
-$Acme::Playpen::VERSION = '0.03';
+$Acme::Playpen::VERSION = '0.04';
 use strict;
 use warnings;
 use 5.006;
@@ -10,7 +10,7 @@ use Acme::Playpen::Utilities;
 
 =head1 NAME
 
-Acme::Playpen -- just mucking about with dist stuff
+Acme::Playpen -- E<lt>justE<gt> "mucking about" with dist stuff via L<Dist::Zilla>
 
 =head1 DESCRIPTION
 

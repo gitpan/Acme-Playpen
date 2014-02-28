@@ -1,7 +1,7 @@
 
 
 This archive contains the distribution Acme-Playpen,
-version 0.07:
+version 0.08:
 
   E<lt>justE<gt> "mucking about" with dist stuff via L<Dist::Zilla> in this $VERSION :-)
 

@@ -1,5 +1,5 @@
 package Acme::Playpen;
-$Acme::Playpen::VERSION = '0.10';
+$Acme::Playpen::VERSION = '0.11';
 use strict;
 use warnings;
 use 5.006;
@@ -10,7 +10,7 @@ use Acme::Playpen::Utilities;
 
 =head1 NAME
 
-Acme::Playpen -- E<lt>justE<gt> "mucking about" with dist stuff via L<Dist::Zilla>,
+Acme::Playpen - E<lt>justE<gt> "mucking about" with dist stuff via L<Dist::Zilla>,
 including a test for
 multi-line abstracts
 

@@ -1,5 +1,8 @@
 Revision history for Perl module Acme::Playpen
 
+0.11 2014-03-17
+    - Argh, wrote the changes entry but didn't actually fix the abstract :-(
+
 0.10 2014-03-17
     - Rats, had double dash in abstract from when I was testing summat else
 

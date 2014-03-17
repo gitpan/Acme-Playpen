@@ -1,7 +1,11 @@
 Revision history for Perl module Acme::Playpen
 
+0.09 2014-03-17
+    - multi-line abstract
+
 0.08 2014-02-28
-    - Wanted to do a release so I can track timezone differences with BackPAN and CPAN.
+    - Wanted to do a release so I can track timezone differences with
+      BackPAN and CPAN.
 
 0.07 2014-02-25
     - ok, so no_index and separate pod, the pod is linked in MetaCPAN.

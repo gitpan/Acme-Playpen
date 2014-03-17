@@ -1,5 +1,5 @@
 package Acme::Odometer;
-$Acme::Odometer::VERSION = '0.08';
+$Acme::Odometer::VERSION = '0.09';
 use strict;
 use warnings;
 

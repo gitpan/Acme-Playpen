@@ -1,5 +1,12 @@
 Revision history for Perl module Acme::Playpen
 
+0.13 2014-03-20
+    - Acme::Playpen has version 0.13
+    - Acme::Playpen::Utilities has version 0.12_01
+    - The release is 0.13
+    - The previous version of Acme::Playpen::Utilities should be in the index
+    - What will MetaCPAN do ... ?
+
 0.12 2014-03-20
     - Explicitly set version in packages
     - Want to undex ::Utilities this time

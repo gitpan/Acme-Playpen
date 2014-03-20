@@ -1,5 +1,9 @@
 Revision history for Perl module Acme::Playpen
 
+0.12 2014-03-20
+    - Explicitly set version in packages
+    - Want to undex ::Utilities this time
+
 0.11 2014-03-17
     - Argh, wrote the changes entry but didn't actually fix the abstract :-(
 

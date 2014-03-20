@@ -1,7 +1,7 @@
 
 
 This archive contains the distribution Acme-Playpen,
-version 0.11:
+version 0.12:
 
   E<lt>justE<gt> "mucking about" with dist stuff via L<Dist::Zilla>, including a test for multi-line abstracts
 

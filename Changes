@@ -1,5 +1,8 @@
 Revision history for Perl module Acme::Playpen
 
+0.14 2014-03-20
+    - Change ::Utilities so doc is clearly developer version
+
 0.13 2014-03-20
     - Acme::Playpen has version 0.13
     - Acme::Playpen::Utilities has version 0.12_01

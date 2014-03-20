@@ -1,6 +1,6 @@
 package Acme::Playpen::Utilities;
 
-our $VERSION = '0.12_01';
+our $VERSION = '0.12_02';
 
 use strict;
 use warnings;
@@ -20,6 +20,8 @@ Acme::Playpen::Utilities - I'm just this module, you know
  # do nothing
 
 =head1 DESCRIPTION
+
+Danger Will Robinson! This is a developer version -- don't install it unless you're sure!
 
 Acme::Playpen::Utilities is a nothing little module,
 used while i'm checking various things related to the CPAN toolchain.

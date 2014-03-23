@@ -1,20 +1,20 @@
 ---
-abstract: "E<lt>justE<gt> \"mucking about\" with dist stuff via L<Dist::Zilla>, including a test for multi-line abstracts"
+abstract: 'E<lt>justE<gt> "mucking about" with dist stuff via L<Dist::Zilla>, including a test for multi-line abstracts'
 author:
   - 'Neil Bowers <neil@bowers.com>'
 build_requires:
-  Test::More: 0.88
+  Test::More: '0.88'
 configure_requires:
-  ExtUtils::MakeMaker: 6.30
+  ExtUtils::MakeMaker: '6.30'
 dynamic_config: 0
 generated_by: 'Dist::Zilla version 5.013, CPAN::Meta::Converter version 2.133380'
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
-  version: 1.4
+  version: '1.4'
 name: Acme-Playpen
 requires:
-  perl: 5.006
-  strict: 0
-  warnings: 0
-version: 0.14
+  perl: '5.006'
+  strict: '0'
+  warnings: '0'
+version: '0.15'

@@ -1,6 +1,6 @@
 package Acme::Playpen;
 
-our $VERSION = '0.15';
+our $VERSION = '0.16';
 
 use strict;
 use warnings;
@@ -12,9 +12,7 @@ use Acme::Playpen::Utilities;
 
 =head1 NAME
 
-Acme::Playpen - E<lt>justE<gt> "mucking about" with dist stuff via L<Dist::Zilla>,
-including a test for
-multi-line abstracts
+Acme::Playpen - a test distribution for playing around
 
 =head1 DESCRIPTION
 

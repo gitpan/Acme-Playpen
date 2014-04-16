@@ -1,5 +1,8 @@
 Revision history for Perl module Acme::Playpen
 
+0.16 2014-04-05
+    - simplified abstract
+
 0.15 2014-03-23
     - Versions for all modules the same
 

@@ -16,10 +16,11 @@ name: Acme-Playpen
 no_index:
   file:
     - lib/Acme/Playpen/NonIndexedFile.pm
+    - examples/ExamplePackage.pm
   package:
     - Acme::Playpen::NonIndexedPackage
 requires:
   perl: '5.006'
   strict: '0'
   warnings: '0'
-version: '0.16'
+version: '0.17'
